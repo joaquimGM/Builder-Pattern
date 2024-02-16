@@ -1,4 +1,4 @@
-const { Character, CharacterBuilder } = require("./index.cjs");
+const { Character, CharacterBuilder } = require("../src/index.cjs");
 
 describe("Character Class", () => {
   test("getCharacter method should display character information", () => {
